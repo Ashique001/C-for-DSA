@@ -11,6 +11,7 @@ int main(){
     // cout<<s.size()<<endl;
     cout<<x<<endl;
     cout<<s<<endl;
+    cout<<endl;
    
 
 }
